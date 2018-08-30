@@ -3,6 +3,7 @@
 ### Week 1: Animation Review, Easing
 
 Read: [OF Book: How OF Works](https://openframeworks.cc/ofBook/chapters/how_of_works.html)
+
 Read: [OF Book: Animation](https://openframeworks.cc/ofBook/chapters/animation.html) (up to "Function based movement)
 
 Download and install IDE (ie XCode) as needed as well as the latest OF.
