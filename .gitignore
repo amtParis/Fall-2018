@@ -1,1 +1,10 @@
-.DS_Store
+# OSX
+*.DS_Store
+
+# Windows
+Desktop.ini
+
+# Creative Coding
+CreativeCoding/**/**/*.make
+CreativeCoding/**/**/Makefile
+CreativeCoding/**/**/bin/*.app/
