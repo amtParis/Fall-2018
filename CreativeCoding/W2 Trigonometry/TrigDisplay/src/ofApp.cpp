@@ -9,16 +9,17 @@ void ofApp::setup(){
     origin = ofPoint(100,ofGetHeight()/2);
     radius = 50;
     angle = 0;
+    t = .025;
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
     
-    angle += .025;
+    angle += t;
     ofPoint dst = ofPoint(origin.x + 2*radius,origin.y + radius * sin(angle));
-
+    
     for(int i = 0; i < sinPts.size(); i++){
-        sinPts[i].x += .75;
+        sinPts[i].x += 1;
     }
     sinPts.insert(sinPts.begin(),dst);
     

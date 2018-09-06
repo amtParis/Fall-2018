@@ -24,6 +24,7 @@ class ofApp : public ofBaseApp{
         ofPoint origin;
         float radius;
         float angle;
+        float t;
         vector<ofPoint> sinPts;
     
 };
