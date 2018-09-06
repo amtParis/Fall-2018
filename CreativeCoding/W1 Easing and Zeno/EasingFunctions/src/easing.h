@@ -9,8 +9,6 @@
 
 #include "ofMain.h"
 
-//namespace easing {
-
 
     float linear(float t) ;
 
@@ -72,6 +70,6 @@
     float outBounce(float t) ;
 
     float inBounce(float t) ;
-    float inOutBounce(float t) ;
 
-//}
+float inOutBounce(float t) ;
+
