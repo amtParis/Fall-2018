@@ -34,6 +34,5 @@ class ofApp : public ofBaseApp{
         ofxIntSlider redValue;
     
     
-        gameState currentState;
 		
 };
