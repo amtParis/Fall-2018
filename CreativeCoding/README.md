@@ -1,5 +1,15 @@
 # Creative Coding Fall 2018
 
+### Week 3: Forces, Velocity
+
+Code Assignments:
+
+Create 2 compositions using particles with forces, attraction and repulsion. Play with other shapes besides circles and try to incorporate rotation in the direction of movement. Make one composition that uses an image in some way (as a background for example).
+
+Links:
+
+[Nature of Code: Forces](https://natureofcode.com/book/chapter-2-forces/)
+
 ### Week 2: Trigonometry
 
 Code Assignments:
