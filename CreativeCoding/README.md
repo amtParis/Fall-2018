@@ -75,3 +75,18 @@ Links:
 [OFBook](https://github.com/openframeworks/ofBook/tree/master/chapters)
 
 
+### Students
+
+[Stella](https://github.com/YuxinZhong96/CreativeCoding_Fall2018)
+
+[Jungu](https://github.com/JunguGuo/CreativeCoding_Fall2018)
+
+[Qizhao](https://github.com/chenq0816)
+
+[Jason](https://github.com/jason7556/2018FallOf.git)
+
+[Joyce](https://github.com/joycemolly/CreativeCodingParis2018)
+
+[Lio](https://github.com/Lio6/Fall2018CreativeCoding.git)
+
+
