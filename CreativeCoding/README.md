@@ -1,5 +1,14 @@
 # Creative Coding Fall 2018
 
+### Week 4: Noise
+
+Code Assignments:
+
+1. Modify any sketch you have done so far to incorporate noise into some element.
+
+2. Create a scribble tool that lets you draw lines but adds a bit of noise to the line as you draw.
+
+
 ### Week 3: Forces, Velocity
 
 Code Assignments:
