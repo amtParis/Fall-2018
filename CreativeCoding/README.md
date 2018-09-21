@@ -6,8 +6,9 @@ Code Assignments:
 
 1. Modify any sketch you have done so far to incorporate noise into some element.
 
-2. Create a scribble tool that lets you draw lines but adds a bit of noise to the line as you draw.
+2. Create a scribble tool that lets you draw lines but adds a bit of noise to the line as you draw. 
 
+3. Begin work on your midterm (if you have not already!)  and bring your progrress to class.
 
 ### Week 3: Forces, Velocity
 
