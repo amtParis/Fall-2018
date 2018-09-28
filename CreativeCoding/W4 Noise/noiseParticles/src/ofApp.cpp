@@ -3,6 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
+    
     string xmlSettingsPath = "Particles.xml";
     gui.setup( "Particles", xmlSettingsPath );
     
@@ -15,9 +16,9 @@ void ofApp::setup(){
     ofVec3f spawnSize(30,30,30);
     for( unsigned int i = 0; i < 1000; i++ ){
         Particle p;
-        p.setup( ofPoint(ofRandom( spawnSize.x * -0.5, spawnSize.x * 0.5),
-                         ofRandom( spawnSize.y *  0.0, spawnSize.y * 1.0),
-                         ofRandom( spawnSize.z * -0.5, spawnSize.z * 0.5)), ofPoint(0,0,0) );
+        p.setup( ofPoint(ofRandom( -spawnSize.x , spawnSize.x ),
+                         ofRandom( -spawnSize.y , spawnSize.y ),
+                         ofRandom( -spawnSize.z , spawnSize.z )), ofPoint(0,0,0) );
 
         particles.push_back(p);
     }
@@ -54,7 +55,8 @@ void ofApp::draw(){
     
     ofSetColor( ofColor(60) );
     ofPushMatrix();
-    ofRotate(90, 0, 0, -1);
+    ofRotateYDeg(90);//, 0, 0, -1);
+    ofTranslate(30, 0, 0);
     ofDrawGridPlane( 10, 12, false );
     ofPopMatrix();
     

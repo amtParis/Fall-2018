@@ -1,8 +1,8 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ofxGui.h"
 #include "Particle.hpp"
+#include "binner.h"
 
 class ofApp : public ofBaseApp{
 
@@ -23,11 +23,7 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-        vector<Particle>        particles;
-        ofEasyCam               camera;
-        ofxPanel                gui;
-        ofParameter<float>      noiseMagnitude;
-        ofParameter<float>      spaceFrequency;
-        ofParameter<float>      timeFrequency;
+        vector<Particle> particles;
 
+		
 };

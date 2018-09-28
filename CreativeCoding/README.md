@@ -1,5 +1,9 @@
 # Creative Coding Fall 2018
 
+### Week 5: Review
+
+Finish Midterms projects!
+
 ### Week 4: Noise
 
 Code Assignments:
