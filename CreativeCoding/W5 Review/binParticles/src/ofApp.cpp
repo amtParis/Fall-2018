@@ -42,7 +42,7 @@ void ofApp::update(){
     }
     
     // old method:
-//
+
 //    for( int i = 0; i < particles.size(); i++){
 //
 //        for( int j = 0; j < i; j++){

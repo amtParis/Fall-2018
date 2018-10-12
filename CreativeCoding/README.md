@@ -1,5 +1,19 @@
 # Creative Coding Fall 2018
 
+### Week 7: 3d
+
+Code Assignments:
+
+1. Create a 3d scene with and ofCamera that you can move with keypresses. Create one mode where the camrea animates to preset positions.
+
+2. Create your own sound reactive 3d world using just volume levels. 
+
+Links:
+
+[ofBook: Graphics 3d](https://openframeworks.cc/ofBook/chapters/advanced_graphics.html#d)
+
+### Week 6: Midterms
+
 ### Week 5: Review
 
 Finish Midterms projects!
