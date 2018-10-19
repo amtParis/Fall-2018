@@ -1,5 +1,16 @@
 # Creative Coding Fall 2018
 
+### Week 8: Sound
+
+Code Assignments:
+
+1. Create a sound toy - an interactive experiment that creates a soundscape (collisions, animations, velocities might trigger sound effects to create a unique musical experience).
+
+
+Links:
+
+[ofBook: Sound](https://openframeworks.cc/ofBook/chapters/sound.html)
+
 ### Week 7: 3d
 
 Code Assignments:

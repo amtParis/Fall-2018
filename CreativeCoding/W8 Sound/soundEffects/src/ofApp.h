@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "Particle.hpp"
 
 class ofApp : public ofBaseApp{
 
@@ -21,22 +22,9 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
-        void audioIn(ofSoundBuffer & input);
+        ofSoundPlayer sound1;
+        vector<Particle> particles;
     
-        // audio data
-        vector <float> left;
-        vector <float> right;
     
-        float smoothedVol;
-        float scaledVol;
-    
-        ofSoundStream soundStream;
-    
-        // reactive visuals
-        vector<ofPoint> pts;
-        vector<ofPoint> orig_pts;
-        vector<ofPoint> dirs;
-        ofImage glowImg;
-        ofEasyCam cam;
 		
 };
