@@ -1,5 +1,26 @@
 # Creative Coding Fall 2018
 
+### Week 9: Pixels and Computer Vision
+
+Code Assignments:
+
+1. Use a computer vision library (ofxOpenCV or ofxCV) and possibly ofxBox2d to create your own version of one of these existing artworks:
+
+[Text Rain by Camille Utterback and Romy Achituv](https://www.youtube.com/watch?v=f_u3sSffS78)
+
+[Manual Input Sessions by Zach Lieberman & Golan Levin](https://www.youtube.com/watch?v=3paLKLZbRY4)
+
+[Rain / Water from TeamLab Installation](https://www.youtube.com/watch?v=qg8S5ErUN7g)
+
+You do not have to reproduce the work exactly but build on the idea in your own way.
+
+2. Research several potential topics to explore for a final project and be prepared to discuss them after the break. Your final project should address a topic in the world of creative coding and should have a concept statement. You may propose works that use other platfroms besides Openframeworks such as : Unity (must involve scripting), javascript (p5.js, ml5.js etc.)
+
+
+Links:
+
+[ofBook: Image Procesing](https://openframeworks.cc/ofBook/chapters/image_processing_computer_vision.html)
+
 ### Week 8: Sound
 
 Code Assignments:
